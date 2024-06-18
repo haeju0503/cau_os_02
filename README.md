@@ -6,3 +6,6 @@ Homework#2 simple_calculator 구현
 
 # 2024-05-15
 Homework#4 figure 구현
+
+# 2024-06-18
+branch 및 remote repository 생성
